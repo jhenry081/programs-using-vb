@@ -1,2 +1,3 @@
-# calculate-bmi-using-vb
-This is a repo demonstrating various programs using Visual Basic
+# PROGRAMS USING VB
+
+This is a repo demonstrating various programs using Visual Basic 
